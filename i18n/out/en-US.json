@@ -1,0 +1,10 @@
+{
+  "locale": "en",
+  "languageName": "English",
+  "Application": {
+    "title": "Boks"
+  },
+  "XCurrencyInputKeypad": {
+    "validationErrorAmountTooHigh": "Amount must be less than ${max}."
+  }
+}
